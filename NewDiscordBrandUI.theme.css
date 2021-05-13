@@ -1,0 +1,111 @@
+/**
+    * @name New Discord Brand Ui
+    * @version 1.0.0
+    * @description Make DIscord look like its new brand design guidelines.
+    * @author ecnivtwelve#0001
+    *
+    * @website https://github.com/ecnivtwelve/new-discord-brand-ui
+    * @source https://github.com/ecnivtwelve/new-discord-brand-ui
+**/
+
+:root {
+    --background-primary: rgb(37, 40, 44);
+    --background-secondary: rgb(30, 33, 36);
+    --background-tertiary: #16181A;
+    --interactive-normal: #ffffff;
+    --font-primary: var(--font-display);
+}
+
+.name-uJV0GL {
+    font-family: var(--font-display);
+}
+
+.typeWindows-1za-n7 {
+    background-color: var(--brand-experiment);
+    margin-top: 0;
+    padding-top: 4px;
+}
+
+.messageContent-2qWWxC {
+    font-family: var(--font-display);
+    opacity: 90%;
+}
+
+.username-1A8OIy {
+    font-family: var(--font-display);
+    font-weight: 500;
+}
+
+.wordmarkWindows-1v0lYD {
+    color: white;
+}
+
+.channelTabs-tabContainer {
+    background: var(--brand-experiment) !important;
+}
+
+.channelTabs-tabName {
+    font-family: var(--font-display);
+}
+
+.channelTabs-tab {
+    border-radius: 5px 5px 0px 0px !important;
+    margin: 0 !important;
+    margin-top: 2px !important;
+    background: var(--background-secondary) !important;
+    width: 190px !important;
+}
+
+.channelTabs-tabContainer {
+    padding: 0 !important;
+}
+
+.channelTabs-selected {
+    background: var(--background-tertiary) !important;
+    width: 210px !important;
+}
+
+.channelTabs-newTab {
+    background: var(--background-tertiary) !important;
+    color: white !important;
+    padding: 6px !important;
+    margin-bottom: -5px !important;
+    opacity: 25%;
+}
+
+.channelTabs-newTab:hover {
+    opacity: 100%;
+}
+
+.placeholder-37qJjk {
+    font-family: var(--font-display);
+}
+
+.markup-2BOw-j {
+    font-family: var(--font-display);
+}
+
+.selected-aXhQR6 {
+    background: var(--brand-experiment);
+}
+
+.modeSelected-346R90 .content-1x5b-n {
+    background: var(--brand-experiment);
+    transition: 0.15s;
+}
+
+.modeSelected-346R90 .content-1x5b-n .icon-1DeIlz {
+    color: white;
+}
+
+.container-3baos1 {
+    background: var(--background-tertiary);
+}
+
+.inner-MADQqc {
+    background: var(--background-tertiary);
+}
+
+.scrollableContainer-2NUZem {
+    background: var(--background-tertiary);
+}
